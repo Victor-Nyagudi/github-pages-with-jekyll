@@ -1,3 +1,8 @@
+---
+title: "Stories From The Back of My Head"
+date: 2021-03-04
+---
+
 August 4th, 1968. Tyler blew warm air into his cupped hands as the waves gently rocked the boat back and forth. Justin and Rob barely made it through the storm. 
 _I'm one hell of a survivor to make it through that shitshow_. He got up and searched the ship... or whatever the storm had left them with. Aside from a case of wine, 
 some pots and pans, and luckily, a lighter, not much made it through. He grabbed the case and jumped down to the glistening sand below the moonlit sky.
