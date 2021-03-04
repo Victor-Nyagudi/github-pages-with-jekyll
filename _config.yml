@@ -1,13 +1,14 @@
-title: Your awesome title
-author: GitHub User
-email: your-email@domain.com
+title: Welcome to the Water Tribe
+author: Victor-Nyagudi
+email: heightabovesealevel@gmail.com
+theme: minima
+
 description: > # this means to ignore newlines until "baseurl:"
-  Write an awesome description for your new site here. You can edit this
-  line in _config.yml. It will appear in your document head meta (for
-  Google search results) and in your feed.xml site description.
+  This is a short description that will appear in the head of my document for Google searches.
+  Again, not much to say here. Just adding it as per the instructions given to me.
 
 # social links
-twitter_username: your-twitter-handle # DO NOT include the @ character, or else the build will fail!
-github_username:  your-github-handle # DO NOT include the @ character, or else the build will fail!
+twitter_username: Vicktor_Oti # DO NOT include the @ character, or else the build will fail!
+github_username:  Victor-Nyagudi # DO NOT include the @ character, or else the build will fail!
 
 show_excerpts: true # set to false to remove excerpts on the homepage
